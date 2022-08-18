@@ -1,3 +1,5 @@
+// while loop face rotator
+
 #include <AccelStepper.h>
 #define dirPinfront 2
 #define stepPinfront 3
